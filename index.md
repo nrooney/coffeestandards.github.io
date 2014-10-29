@@ -23,10 +23,9 @@ show_nav: true
 
 ### Melbourne
 
-* [Bar Economico](http://www.bareconomico.com.au/) - Cheap, cheerful and good
-* [Bar Americano](https://www.facebook.com/baramericanomel) - Tiny, no seats  🍸
-* [1806](http://www.1806.com.au) - Red velvet classics 🍸
-* [Boston Sub (Jungle Boy)](http://www.bostonsub.com.au) - Through the freezer 🍴
+* [Hobba](http://www.hobba.com.au) - AU coffee exemplar 🍴
+* [Market Lane](http://www.marketlane.com.au) - Oasis in the market
+
 
 
 ## Asia
