@@ -32,3 +32,6 @@ show_nav: true
 
 
 
+---
+
+*Looking for something stronger? Try [Cocktail Standards](https://cocktailstandards.github.io/).*
