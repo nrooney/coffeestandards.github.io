@@ -11,11 +11,11 @@ show_nav: true
 
 ## Americas 
 
-### Calgary (Canada)
+### Calgary
 
 * [Phil & Sebastian](https://www.philsebastian.com) - Good but sloowwww
 
-### Montréal (Québec, Canada)
+### Montréal
 
 * [Olimpico](http://www.cafeolimpico.com/) - Cafe Latte
 
@@ -36,17 +36,17 @@ show_nav: true
 
 ## Asia
 
-### Chigasaki (Kanagawa, Japan)
+### Chigasaki, Japan
 * [I don't know coffee](http://idontknowcoffee.com) - Obviously he knows
 
-### Kamakura (Kanagawa, Japan)
+### Kamakura, Japan
 * [The Good Goodies](https://www.facebook.com/THEGOODGOODIES) - Dripping. Take your time
 
-### Tokyo (Japan)
+### Tokyo
 * [The Roastery](http://www.tyharborbrewing.co.jp/jp/roastery/) - Good mood, good coffee
 
 
-### Tsujido (Kanagawa, Japan)
+### Tsujido, Japan
 * [27 Coffee Roasters](http://27coffee.jp/) - Good choice, Variety
 
 
