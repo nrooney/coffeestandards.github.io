@@ -41,13 +41,12 @@ show_nav: true
 
 ### Kamakura, Japan
 * [The Good Goodies](https://www.facebook.com/THEGOODGOODIES) - Dripping. Take your time
-* [Omotesando Koffee](http://ooo-koffee.com/index_omotesando.html) - run by Shizuo san, coffee genius of Tokyo (latte best)
-* [Be a Good Neighbour](http://beagoodneighbor.net/) - coffee kiosk in Sendagaya, rotating coffee origins (latte best)
-* [Coutume](http://coutume.jp/) - drip coffee in Aoyama (drip best)
 
 ### Tokyo
 * [The Roastery](http://www.tyharborbrewing.co.jp/jp/roastery/) - Good mood, good coffee
-
+* [Omotesando Koffee](http://ooo-koffee.com/index_omotesando.html) - run by Shizuo san, coffee genius of Tokyo (latte best)
+* [Be a Good Neighbour](http://beagoodneighbor.net/) - coffee kiosk in Sendagaya, rotating coffee origins (latte best)
+* [Coutume](http://coutume.jp/) - drip coffee in Aoyama (drip best)
 
 ### Tsujido, Japan
 * [27 Coffee Roasters](http://27coffee.jp/) - Good choice, Variety
